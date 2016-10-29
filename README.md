@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "hello, world!"
 
-Things you may want to cover:
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/). Hello, world!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Note:
+The tutorial uses BitBucket in order to introduce the basic usage of Git through
+private repositories. I have decided to stray from that and use GitHub for my
+learning.
